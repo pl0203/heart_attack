@@ -14,7 +14,6 @@ The prediction model has an accuracy of 89% using Random Forest Classifier.
 ---
 
 FEATURES:
-
 AGE - AGE OF THE PATIENT
 SEX - SEX OF THE PATIENT , (1:MALE , 0: FEMALE)
 EXANG - EXERCISE INCLUDE ANGIA (1=YES, 0=NO)
